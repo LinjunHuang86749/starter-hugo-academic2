@@ -24,11 +24,11 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
+    - course: PhD in Statistics
+      institution: University of Illinois Urbana-Champaign
       year: 2020 - current
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+    - course: Master of Arts, Statistics 
+      institution: Columbia University
       year: 2019 - 2020
     - course: Bachelor of Science, Applied Mathematics
       institution: University of California, Davis
@@ -49,9 +49,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'linjunh2@illinois.edu'
