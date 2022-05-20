@@ -14,7 +14,7 @@ organizations:
     url: https://stat.illinois.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am currently a Statistics PhD student at University of Illinois Urbana-Champaign. I obtained my Master's in Statistics at Columbia University. Previously, I was at UC Davis where I studied Applied Mathematics.  
 
 # Interests to show in About widget
 interests:
