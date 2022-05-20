@@ -18,22 +18,21 @@ bio: I am currently a Statistics PhD student at University of Illinois Urbana-Ch
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Optimization
+  - PDE
 
 # Education to show in About widget
 education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
-      year: 2012
+      year: 2020 - current
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2019 - 2020
+    - course: Bachelor of Science, Applied Mathematics
+      institution: University of California, Davis
+      year: 2015 - 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
