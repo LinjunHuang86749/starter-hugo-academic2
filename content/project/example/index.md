@@ -13,9 +13,9 @@ image:
   focal_point: Smart
 
 #links:
-#- icon: github
-#    icon_pack: fab
-#    link: https://github.com/bingguJ/5242_project
+- icon: github
+    icon_pack: fab
+    link: https://github.com/bingguJ/5242_project
 url_code: ''
 url_pdf: ''
 url_slides: ''
