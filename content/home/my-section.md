@@ -39,8 +39,14 @@ as dasd
 dsad
 sda dsad 
 
-Research 2:
+Undergraduate Research 
+University of California, Davis 
+June 2017 — Oct 2018
 
-sdad 
-sdadsa
-sdas sdafsd
+Principal Investigator:[Qingtian Zhang](https://sites.google.com/site/qingtianzh/home)
+
+L. Huang, Global Solution to a Non-linear Wave Equation of Liquid Crystal in the Constant
+Electric Field, SIURO Vol 12, 125-153. [(DOI: 10.1137/18S017557)](https://www.siam.org/Portals/0/Publications/SIURO/Vol12/S01755.pdf?ver=2019-05-08-151446-337).
+o Used the variational principle to derive the partial differential equation (PDE).
+o Introduced the notation of the energy conserved weak solution for the PDE and proved
+the existence of the energy conserved weak solution by the method of characteristics. 
