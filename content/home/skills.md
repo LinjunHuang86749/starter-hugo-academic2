@@ -24,10 +24,10 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Photography
+#  - description: 10%
+#    icon: camera-retro
+#    icon_pack: fas
+#    name: Photography
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
