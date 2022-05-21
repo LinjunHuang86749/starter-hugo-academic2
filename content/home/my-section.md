@@ -39,7 +39,7 @@ simulations.
 
 University of California, Davis June 2017 --- Oct 2018
 
-Principal Investigator:[Qingtian
+Principal Investigator: [Qingtian
 Zhang](https://sites.google.com/site/qingtianzh/home)
 
 L. Huang, Global Solution to a Non-linear Wave Equation of Liquid
