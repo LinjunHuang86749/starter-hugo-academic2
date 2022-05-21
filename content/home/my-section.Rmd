@@ -1,16 +1,16 @@
 ---
 # An instance of the Blank widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+widget: pages
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 1
+weight: 45
 
 # Section title
-title: Hello
+title: Research
 
 # Section subtitle
 subtitle:
