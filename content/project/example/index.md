@@ -25,7 +25,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/GR5242_Project_Report_Group_45.pdf" "newtab" >}}project{{< /staticref >}}.
 
 
 The research of style transfer expands a lot in recent years due to the evolution of Convolutional Neural Networks. In this report, we build a neural style transfer network based on a pre-trained VGG-19 model that will capture the style and
