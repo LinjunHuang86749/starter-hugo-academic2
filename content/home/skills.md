@@ -25,8 +25,8 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 20%
-    icon: network
-    icon_pack: fa-chart
+    icon: atom
+    icon_pack: fa
     name: Data Analysis
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
