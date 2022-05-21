@@ -17,12 +17,30 @@ subtitle:
 
 # Section design
 design:
-  # Use a 1-column layout
-  columns: "1"
-  # Use a dark navy background with light text.
-  background:
-    color: 'navy'
-    text_color_light: true
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
+
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
+
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
 
 Add any content to the body of the section here.
+
+Research 1:
+
+as dasd 
+dsad
+sda dsad 
+
+Research 2:
+
+sdad 
+sdadsa
+sdas sdafsd
