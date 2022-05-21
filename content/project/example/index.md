@@ -1,6 +1,6 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Neural Style Transfer Network Project
+summary: Three major improvements based on the current image style transfer paper.
 tags:
   - Deep Learning
 date: '2016-04-27T00:00:00Z'
@@ -9,7 +9,7 @@ date: '2016-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: ""
   focal_point: Smart
 
 #links:
