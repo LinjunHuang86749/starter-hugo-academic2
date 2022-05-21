@@ -1,6 +1,6 @@
 ---
-title: Neural Style Transfer Network Project
-summary: Three major improvements based on the current image style transfer paper.
+title: Bayesian Neural Network Project
+summary: implement Bayesian Neural Network on MNIST datasets.
 tags:
   - Deep Learning
 date: '2020-12-20T00:00:00Z'
@@ -13,7 +13,7 @@ image:
   focal_point: Smart
 
 #links:
-url_code: 'https://github.com/bingguJ/5242_project'
+url_code: ''
 url_pdf: ''
 url_slides: ''
 url_video: ''
@@ -25,7 +25,7 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: example2
 ---
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/GR5242_Project_Report_Group_45.pdf" "newtab" >}}project{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/GR5293_presentation.pdf" "newtab" >}}slides{{< /staticref >}}.
 
 
-Bayesian Neural Network
+{{< icon name="download" pack="fas" >}} Download the html version of my {{< staticref "uploads/GR5293_final_code.html" "newtab" >}}code{{< /staticref >}}.
