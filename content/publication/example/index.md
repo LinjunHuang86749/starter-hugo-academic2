@@ -7,12 +7,12 @@ Electric Field'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-
+<!---
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-
+-->
 date: '2018-09-01T00:00:00Z'
 doi: ''
 
