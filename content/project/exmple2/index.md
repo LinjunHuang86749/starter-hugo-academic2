@@ -1,6 +1,6 @@
 ---
 title: Bayesian Neural Network Project
-summary: implement Bayesian Neural Network on MNIST datasets.
+summary: Implement Bayesian Neural Network on MNIST datasets.
 tags:
   - Deep Learning
 date: '2020-12-20T00:00:00Z'
