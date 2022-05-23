@@ -26,10 +26,10 @@ education:
   courses:
     - course: PhD in Statistics
       institution: University of Illinois Urbana-Champaign
-      year: 2020 - current
+      year: 2021 - current
     - course: Master of Arts, Statistics 
       institution: Columbia University
-      year: 2019 - 2020
+      year: 2019 - 2021
     - course: Bachelor of Science, Applied Mathematics
       institution: University of California, Davis
       year: 2015 - 2019
