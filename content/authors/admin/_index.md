@@ -26,7 +26,7 @@ education:
   courses:
     - course: PhD in Statistics
       institution: University of Illinois Urbana-Champaign
-      year: 2021 - current
+      year: 2020 - current
     - course: Master of Arts, Statistics 
       institution: Columbia University
       year: 2019 - 2021
