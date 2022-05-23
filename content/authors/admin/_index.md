@@ -62,4 +62,4 @@ highlight_name: true
 
 I am currently a Statistics PhD student at University of Illinois Urbana-Champaign. I obtained my Master's in Statistics at Columbia University. Previously, I was at UC Davis where I studied Applied Mathematics.  
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resume{{< /staticref >}}.
